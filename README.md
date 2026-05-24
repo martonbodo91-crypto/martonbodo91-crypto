@@ -9,7 +9,7 @@ My goal is to turn complex data into clear, meaningful and visually understandab
 
 ## About me
 
-- 🔭 I’m currently working on a **Parkinson’s Telemonitoring Analysis** project
+- 🔭 I’m currently working on a **Mapping the Hidden Disability Burden of Neurological Disorders** project
 - 🌱 I’m currently learning **data science, statistical analysis and data visualization with R and Python**
 - 👯 I’m looking to collaborate on **data science, data analysis and visualization projects related to healthcare, neuroscience and laboratory diagnostics**
 - 🤝 I’m looking for help with **building stronger data science projects, improving statistical analysis and creating more professional data visualizations**
